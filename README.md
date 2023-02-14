@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @ifs20032-itdel
 - 👀 I’m interested in Android Development
 - 🌱 I’m currently learning Android
-- 💞️ I’m looking to collaborate on Gaming
-- 📫 How to reach me ...
 
 <!---
 ifs20032-itdel/ifs20032-itdel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
