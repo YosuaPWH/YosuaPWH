@@ -5,4 +5,5 @@
 halohoyosua1502@gmail.com
 
 
-![readmebox (1)](https://github.com/YosuaPWH/YosuaPWH/assets/72293596/b682f910-eb19-4997-a6a8-de6e61faa36b)
+![readmebox](https://github.com/YosuaPWH/YosuaPWH/assets/72293596/7e020fc9-33d6-4869-b13e-12bcaaceeb4b)
+
