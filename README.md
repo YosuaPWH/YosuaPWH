@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Yosua Haloho
-- 👀 I’m interested in Mobile Development
+👋 Hi, I’m Yosua Haloho
 
 
 
